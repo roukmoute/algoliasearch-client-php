@@ -178,6 +178,19 @@ function searchCallback(err, content) {
 </script>
 ```
 
+## Running the tests
+
+Add theses two environments variables from [API Keys](https://www.algolia.com/api-keys) :
+
+* ALGOLIA_APPLICATION_ID=`Application ID`
+* ALGOLIA_API_KEY=`Admin API Key`
+
+Then run:
+
+```bash
+php vendor/bin/phpunit
+```
+
 ## Getting Help
 
 - **Need help**? Ask a question to the [Algolia Community](https://discourse.algolia.com/) or on [Stack Overflow](http://stackoverflow.com/questions/tagged/algolia).
