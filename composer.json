@@ -1,8 +1,8 @@
 {
-    "name": "algolia/algoliasearch-client-php",
+    "name": "roukmoute/algoliasearch-client-php",
     "description": "Algolia Search API Client for PHP",
     "type": "library",
-    "homepage": "https://github.com/algolia/algoliasearch-client-php",
+    "homepage": "https://github.com/roukmoute/algoliasearch-client-php",
     "license": "MIT",
     "authors": [
         {
